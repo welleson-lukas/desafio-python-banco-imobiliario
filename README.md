@@ -72,26 +72,26 @@ Uma execução do programa proposto deve rodar 300 simulações, imprimindo no c
 
 ### Criar venv (Ambiente virtual python)
 ```
-# python -m venv venv
+python -m venv venv
 ```
 
 ### Ativar venv
 ```
-# source venv/bin/activate
+source venv/bin/activate
 ```
 
 ### Instalar dependências do projeto
 ```
-# pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Executar programa
 ```
-# python board/main.py
+python board/main.py
 ```
 As informações das simulações serão exibidas no console
  
 ### Executar testes unitários
 ```
-# pytest
+pytest
 ```
