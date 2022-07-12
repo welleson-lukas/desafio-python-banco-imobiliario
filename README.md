@@ -54,7 +54,7 @@ Caso o jogo demore muito, como é de costume em jogos dessa natureza, o jogo ter
 com a vitória do jogador com mais saldo. O critério de desempate é a ordem de turno dos jogadores nesta
 partida.
 
-###**Saída**
+### **Saída**
 
 Uma execução do programa proposto deve rodar 300 simulações, imprimindo no console os dados referentes
 às execuções. Esperamos encontrar nos dados as seguintes informações:
@@ -68,7 +68,7 @@ Uma execução do programa proposto deve rodar 300 simulações, imprimindo no c
 * Qual o comportamento que mais vence;
 
 
-##Preparação e execução do projeto
+## Preparação e execução do projeto
 
 ### Criar venv (Ambiente virtual python)
 ```
